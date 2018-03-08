@@ -9,7 +9,7 @@ end
 
 
 
-def countdown_with_sleep (duration)
+def countdown_with_sleep (countdown_num)
  n = 10 
  while n >= 0 
   puts "#{n} SECONDS!"
